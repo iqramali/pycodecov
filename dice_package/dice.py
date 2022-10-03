@@ -17,3 +17,7 @@ class DiceBag:
     
     def roll_bag(self):
         return list(map(lambda dice: dice.roll(), self.dice))
+    
+ 
+def test:
+    print("Welcome")
